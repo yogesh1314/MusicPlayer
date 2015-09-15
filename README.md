@@ -5,7 +5,7 @@ With this Player you can play any song(s) in your browser by drag n drop it on P
 
 This player includes Features like:
 
-   Fucntion : Keyboard Shortcut
+   Function : Keyboard Shortcut
 
 0. Play/Pause : 'Spacebar'
 1. Repeat : 'R'
